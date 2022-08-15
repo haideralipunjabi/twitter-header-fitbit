@@ -1,8 +1,8 @@
 # Dynamic Twitter Header with Fitbit API using Python
 
-A small python script that fetchs data from [Fitbit API](https://dev.fitbit.com/) and used [Python Pillow](https://pypi.org/project/Pillow/) to generate a Twitter Header and update it using [Twitter API ](https://developer.twitter.com/en/docs/twitter-api) / [tweepy](https://www.tweepy.org/)
+A small python script that fetches data from [Fitbit API](https://dev.fitbit.com/) and uses [Python Pillow](https://pypi.org/project/Pillow/) to generate a Twitter Header and update it using [Twitter API ](https://developer.twitter.com/en/docs/twitter-api) / [tweepy](https://www.tweepy.org/)
 
-This was inspired by the [#FitDevs community](https://github.com/FitDevs-withKat/Fitness-Accountability). [Join the FitDevs Commnity on Discord](https://discord.gg/7Stnsa2JQE)
+This was inspired by the [#FitDevs community](https://github.com/FitDevs-withKat/Fitness-Accountability). [Join the FitDevs Community on Discord](https://discord.gg/7Stnsa2JQE)
 
 I made this during a Live Stream on [my Twitch](https://twitch.tv/haideralipunjabi). You can [view the recorded stream on Youtube](https://youtu.be/0ArcwIQveno).
 
